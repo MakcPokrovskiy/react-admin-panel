@@ -6,8 +6,8 @@ import {Login} from "./pages/login/Login.tsx";
 
 //Components
 import {Navbar} from "./Companents/Navbar/Navbar.tsx";
-import {Footer} from "./Companents/footer/Footer.tsx";
-import {Menu} from "./Companents/menu/Menu.tsx";
+import {Footer} from "./Companents/Footer/Footer.tsx";
+import {Menu} from "./Companents/Menu/Menu.tsx";
 
 //React-Router
 import {
