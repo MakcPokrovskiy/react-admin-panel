@@ -1,19 +1,20 @@
 import './dataTable.scss';
 import {DataGrid, GridColDef, GridToolbar} from "@mui/x-data-grid";
 import {Link} from "react-router-dom";
+import {useState} from "react";
 
 type Props = {
-    columns: GridColDef[],
-    rows: Object[],
-    slug: string,
+    columns: GridColDef[];
+    rows: Object[];
+    slug: string;
 }
 
 export const DataTable = (props: Props) => {
-
+    const [rows, setRows] = useState(props.rows)
 
     const handelDelete = (id: number) => {
-        // axios.delete(`/api/${slug}/id`)
-        console.log('delete item');
+        const updatedRows = rows.filter(row => row.id !== id);
+        setRows(updatedRows);
     }
 
     const actionColumn: GridColDef = {
@@ -43,7 +44,7 @@ export const DataTable = (props: Props) => {
         <div className="dataTable">
             <DataGrid
                 className="dataGrid"
-                rows={props.rows}
+                rows={rows}
                 columns={[...props.columns, actionColumn]}
                 initialState={{
                     pagination: {
