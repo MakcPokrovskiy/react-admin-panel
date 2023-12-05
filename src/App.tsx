@@ -6,8 +6,8 @@ import {Login} from "./pages/login/Login.tsx";
 
 //Components
 import {Navbar} from "./Companents/Navbar/Navbar.tsx";
-import {Footer} from "./Companents/footer/Footer.tsx";
-import {Menu} from "./Companents/menu/Menu.tsx";
+import {Footer} from "./Companents/Footer/Footer.tsx";
+import {Menu} from "./Companents/Menu/Menu.tsx";
 
 //React-Router
 import {
@@ -18,6 +18,8 @@ import {
 
 //style
 import "./styles/global.scss";
+import {User} from "./pages/user/User.tsx";
+import {Product} from "./pages/product/Product.tsx";
 
 function App() {
 
@@ -40,26 +42,34 @@ function App() {
 
     const router = createBrowserRouter([
         {
-            path:"/",
-            element:<Layout/>,
-            children:[
+            path: "/",
+            element: <Layout/>,
+            children: [
                 {
-                  path:"/",
-                  element:<Home/>
+                    path: "/",
+                    element: <Home/>
                 },
                 {
-                  path:"users",
-                  element:<Users/>
+                    path: "users",
+                    element: <Users/>
                 },
                 {
-                  path:"products",
-                  element:<Products/>
+                    path: "products",
+                    element: <Products/>
+                },
+                {
+                    path: "users/:id",
+                    element: <User/>
+                },
+                {
+                    path: "products/:id",
+                    element: <Product/>
                 },
             ],
         },
         {
-            path:"/login",
-            element:<Login/>
+            path: "/login",
+            element: <Login/>
         }
     ]);
 
