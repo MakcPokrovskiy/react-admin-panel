@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6d4c31dd-1112-48f0-b82c-d2ccebb614ee" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/admin-panel/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,11 +34,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;work-zone&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\user\\Desktop\\ts-react\\admin-panel\\admin-panel\\node_modules\\typescript\\lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -68,6 +71,8 @@
       <updated>1701962105917</updated>
       <workItem from="1701962108992" duration="10000" />
       <workItem from="1701962199950" duration="417000" />
+      <workItem from="1701963159613" duration="146000" />
+      <workItem from="1701963481853" duration="29000" />
     </task>
     <servers />
   </component>
