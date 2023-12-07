@@ -22,7 +22,7 @@ import {Calendar} from "./pages/calendar/Calendar.tsx";
 import {Settings} from "./pages/settings/Settings.tsx";
 import {Backup} from "./pages/backup/Backup.tsx";
 import {Graphics} from "./pages/graphics/Graphics.tsx";
-import {Logs} from "./pages/logs/Logs.tsx";
+import {Log} from "./pages/log/Log.tsx";
 
 
 const queryClient = new QueryClient();
@@ -101,8 +101,8 @@ function App() {
                     element: <Graphics/>,
                 },
                 {
-                    path: "/logs",
-                    element: <Logs/>,
+                    path: "/log",
+                    element: <Log/>,
                 },
                 {
                     path: "/users/:id",
