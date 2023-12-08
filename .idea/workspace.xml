@@ -6,100 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="6d4c31dd-1112-48f0-b82c-d2ccebb614ee" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/app.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/backup.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/calendar.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/chart.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/conversionIcon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/delete.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/element.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/expand.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/favicon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/form.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/home.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/img.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/log.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/noavatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/note.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/notifications.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/order.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/post.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/product.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/productIcon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/profile.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/revenueIcon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/search.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/setting.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/settings.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/user.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/userIcon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/public/view.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/App.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/components/add/Add.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/components/add/add.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/components/barChartBox/BarChartBox.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/components/barChartBox/barChartBox.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/components/bigChartBox/BigChartBox.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/components/bigChartBox/bigChartBox.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/components/chartBox/ChartBox.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/components/chartBox/chartBox.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/components/dataTable/DataTable.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/components/dataTable/dataTable.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/components/footer/Footer.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/components/footer/footer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/components/menu/Menu.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/components/menu/menu.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/components/navbar/Navbar.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/components/navbar/navbar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/components/pieCartBox/PieChartBox.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/components/pieCartBox/pieChartBox.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/components/single/Single.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/components/single/single.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/components/topBox/TopBox.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/components/topBox/topBox.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/data.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/main.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/backup/Backup.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/calendar/Calendar.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/calendar/calendar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/elements/Elements.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/elements/elements.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/forms/Forms.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/forms/forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/graphics/Graphics.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/graphics/graphics.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/home/Home.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/home/home.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/log/Log.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/log/log.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/login/Login.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/messages/Messages.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/messages/messages.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/notes/Notes.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/notes/notes.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/orders/Orders.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/orders/orders.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/product/Product.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/product/product.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/products/Products.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/products/products.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/settings/Settings.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/user/User.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/user/user.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/users/Users.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/users/users.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/styles/global.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/styles/responsive.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/styles/variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/src/vite-env.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/tsconfig.node.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-panel/vite.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/menu/Menu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/menu/Menu.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/products/Products.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/products/Products.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/users/Users.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/users/Users.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,11 +45,21 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Users\\user\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "ts.external.directory.path": "C:\\Users\\user\\Desktop\\ts-react\\admin-panel\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="npm.deploy">
+  <component name="RunManager" selected="npm.deploy (1)">
+    <configuration name="deploy (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/admin-panel/package.json" />
       <command value="run" />
@@ -159,6 +80,16 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="predeploy (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="predeploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="predeploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/admin-panel/package.json" />
       <command value="run" />
@@ -171,6 +102,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.deploy (1)" />
+        <item itemvalue="npm.predeploy (1)" />
         <item itemvalue="npm.deploy" />
         <item itemvalue="npm.predeploy" />
         <item itemvalue="npm.dev" />
@@ -190,6 +123,10 @@
       <workItem from="1701963159613" duration="146000" />
       <workItem from="1701963481853" duration="95000" />
       <workItem from="1701964329229" duration="1404000" />
+      <workItem from="1701965766835" duration="442000" />
+      <workItem from="1701966223752" duration="425000" />
+      <workItem from="1701966830089" duration="119000" />
+      <workItem from="1702051888132" duration="311000" />
     </task>
     <servers />
   </component>
